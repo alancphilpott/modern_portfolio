@@ -254,6 +254,16 @@ main#home h1 {
     border-color: #eece1a;
     transition: all 0.5s ease-out;
 }
+.projects p {
+    text-align: center;
+}
+.project-title {
+    margin: 0.5rem 0 0 0;
+}
+.project-summary {
+    margin-top: 0;
+    font-size: 0.75rem;
+}
 
 .boxes {
     display: flex;

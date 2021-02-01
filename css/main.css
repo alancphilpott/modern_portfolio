@@ -215,7 +215,7 @@ main#home h1 {
   grid-area: bio;
   font-size: 1.5rem;
 }
-.about-info .bio a {
+.about-info .bio p a {
   color: #eece1a;
 }
 .about-info .bio button {
